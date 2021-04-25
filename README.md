@@ -12,6 +12,9 @@
 - password reset
 - logout
 - comment
+- post
+- update
+- delete
 
 ## <b>Platform Hosted</b>
 - Heroku: https://pipepblogger.herokuapp.com/
