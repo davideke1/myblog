@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-a2(01d*z!0cv8*6-yy==qrc76-au&guzz%e@cy!x$3d9_oa4d0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['crudblogapp123.herokuapp.com']
+ALLOWED_HOSTS = ['crudblogapp123.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
@@ -36,7 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'blog.apps.BlogConfig',
+    'blog',
 ]
 
 MIDDLEWARE = [
