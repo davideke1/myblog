@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-a2(01d*z!0cv8*6-yy==qrc76-au&guzz%e@cy!x$3d9_oa4d0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['next-blogger.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['crudblogapp123.herokuapp.com']
 
 # Application definition
 
