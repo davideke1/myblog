@@ -42,7 +42,7 @@
 
 > source env/bin/activate - Linux / Mac
 
-> env/Scripts/activate.bat - Windows
+> venv/Scripts/activate.bat - Windows
 
 > pip install -r requirements.txt
 
