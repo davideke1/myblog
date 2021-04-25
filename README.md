@@ -27,12 +27,12 @@
 
 1. Run the commands below in your terminal:
 
-> https://github.com/israelvictory/Zuri-CRUD-Blog.git
+> https://github.com/davideke1/myblog.git
 
 <br>
 2. Change directory to zuri:
 
-> cd Zuri-CRUD-Blog/zuri
+> cd case/src
 
 <br>
 3. Create a virtual environment adn Install the requirements with the command below:
